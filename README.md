@@ -9,10 +9,6 @@ A simple click counter web application built with vanilla JavaScript to practice
 - 🔄 Reset counter to zero
 - Clean and responsive UI
 
-## Demo
-
-[Add screenshot or GIF here]
-
 ## Technologies Used
 
 - HTML5
